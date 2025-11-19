@@ -1,6 +1,6 @@
-🫀 Heart Disease Prediction (Machine Learning Model)
+##🫀 Heart Disease Prediction (Machine Learning Model)
 
-📌 Project Description
+##📌 Project Description
 
 This project is a beginner machine learning model designed to predict the likelihood of heart disease using various medical attributes such as age, cholesterol levels, blood pressure, and other key health indicators.
 The goal of the model is to help understand how different features contribute to heart disease risk and to build a reliable prediction system using common ML algorithms.
@@ -8,7 +8,7 @@ The goal of the model is to help understand how different features contribute to
 
 ---
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 How to clean, preprocess, and analyze real-world medical datasets
 
@@ -28,7 +28,7 @@ Saving the trained model using pickle/joblib for future prediction use
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
